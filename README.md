@@ -1,4 +1,4 @@
-# AI_DL_ML_PYTHON
+# AI / Machine Learning / Deep Learning
 um repositório contendo alguns códigos de estudo em AI/ML/DL
 
 ### razão do repositório
